@@ -54,6 +54,13 @@ Follow these steps to get started locally:
 5. **Open in Browser**
    Streamlit will provide a local URL. Open it to access the app.
 
+---
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/07614236-7fea-45aa-a107-a07ac97da2b8)
+
+---
 
 ## 🧪 Usage
 Launch the app.
